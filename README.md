@@ -1,5 +1,5 @@
 # Luck the Manager
-The Telegram Group Managment Bot based on Aiogram the Python lib, and deployed with Heroku.
+The Telegram Channel Managment Bot based on Aiogram the Python lib, and deployed with Heroku.
 
 ## How to start?
 At first you need to install the aiogram.  
